@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL PUSTAK", "SQL PUSTAK\SQL PUSTAK.ssmssqlproj", "{3E517877-3465-4BC2-8E0F-0A6B31148FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E517877-3465-4BC2-8E0F-0A6B31148FA7}.Default|Default.ActiveCfg = Default
+		{3ACF1A5C-5C0D-4AF9-B2DA-9FD58097DF03}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83429C4-AE87-4707-A503-38927BF40D8D}
+	EndGlobalSection
+EndGlobal
